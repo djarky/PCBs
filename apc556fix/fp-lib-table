@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "apc556fix")(type "KiCad")(uri "$(KIPRJMOD)/apc556fix.pretty")(options "")(descr ""))
+)
