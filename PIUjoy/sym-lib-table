@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "DigiJoypad-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/DigiJoypad-eagle-import.kicad_sym")(options "")(descr ""))
+)
