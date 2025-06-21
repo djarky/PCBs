@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DigiJoypad")(type "KiCad")(uri "$(KIPRJMOD)/DigiJoypad.pretty")(options "")(descr ""))
+)
